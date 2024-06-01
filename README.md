@@ -1,2 +1,3 @@
 # dataharvest2024
-Discovering climate data
+Decoding the climate, a guide for journalists to understand climate data
+
